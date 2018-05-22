@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory android:title="路线选择">
+        <ListPreference
+            android:key="key_lines_choose"
+            android:dialogTitle="路线"
+            android:title="选择线路" />
+    </PreferenceCategory>
+
+</PreferenceScreen>
